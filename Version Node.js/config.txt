@@ -1,0 +1,6 @@
+Install MongoDB4
+Install Node
+cd to the project directory - npm start to run project
+http://localhost:3000/main.html 
+
+to access the the calendar.

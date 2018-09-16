@@ -1,0 +1,5 @@
+
+ Via phpmyadmin importe la base de datos =) luego ingrese con las
+ siguiente claves
+ david96develop@gmail.com
+ 1234
